@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:15/05/2025 NAME:DIVYASHREE B
+## Date:16/05/2025 NAME:DIVYASHREE B
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
